@@ -8,7 +8,7 @@ Submitted by: **Donatea Zefi**
 
 The following **required** functionality is complete:
 
-* [x] User can read now playing movie titles and discriptions
+* [x] User can read now playing movie titles and descriptions
 
 ## Video Walkthrough 
 
